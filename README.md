@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupesh Shivsharan </h1>
 <h3 align="center">Welcome to my GitHub page!</h3>
-<p align="center">With a dynamic 13-year journey in the field of technology, I am a seasoned professional specializing in <strong>Generative AI</strong>, <strong>AI services </strong>and <strong>Chatbots</strong>.</p>
+<p align="center">With a dynamic 13-year journey in the field of technology, I am a seasoned professional specializing in  <strong>DataScience, Machine Learning & AI </strong> <strong>Generative AI</strong>, <strong>AI services </strong>and <strong>Chatbots</strong>.</p>
 
 <p align="center">My expertise lies in <strong>Generative AI</strong>, <strong>Retrieval Augmented Generation</strong>, <strong>Document Summarization/Understanding</strong> and <strong>DataScience</strong>.</p>
 
