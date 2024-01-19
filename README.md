@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub page!</h3>
 <p align="center">With a dynamic 13-year journey in the field of technology, I am a seasoned professional specializing in <strong>Generative AI</strong>, <strong>AI services </strong>and <strong>Chatbots</strong>.</p>
 
-<p align="center">my expertise lies in <strong>Generative AI</strong>, <strong>Retrieval Augmented Generation</strong>, <strong>Document Summarization/Understanding</strong> and <strong>Data Science</strong>.</p>
+<p align="center">My expertise lies in <strong>Generative AI</strong>, <strong>Retrieval Augmented Generation</strong>, <strong>Document Summarization/Understanding</strong> and <strong>DataScience</strong>.</p>
 
 <p align="center">My repositories include examples of <strong>data science and engineering projects</strong>, where I have <strong>collaborated with team members, communicated insights, and delivered actionable solutions</strong>. These repositories can be helpful for others' projects and data careers by providing examples of <strong>best practices and real-world applications</strong>.</p>
 
