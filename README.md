@@ -20,8 +20,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
-- 📫 How to reach me **shivsharanrupesh1984@gmail.com**
-
 - 📄 Wanna know about my experiences [Email me] **shivsharanrupesh1984@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
