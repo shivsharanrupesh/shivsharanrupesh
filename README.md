@@ -9,6 +9,7 @@
 <p align="center">I navigate the realms of <strong>Cloud Native</strong> and <strong>MLOps/DevOps</strong>, ensuring optimal tech utilization. My collaborative approach extends to working closely with <strong>customers, sales, and pre-sales stakeholders</strong>. I play a pivotal role in envisioning effective solutions for business scenarios and aligning them with product roadmaps and strategies.</p>
 
 <p align="center">Feel free to explore my repositories, fork them, and contribute to them. I am always open to <strong>enthusiastic collaborations</strong> and contributions to interesting projects. Let's connect and explore the possibilities of how we can <strong>learn and grow together in the field of Data Science, ML and AI</strong>.</p>
+
 ## ⚡ Stuff I Know
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
