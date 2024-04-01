@@ -20,20 +20,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
-<br/><br/>
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau badge" />
-  </a>
-</p>
-
-
 - 📫 How to reach me **shivsharanrupesh1984@gmail.com**
 
 - 📄 Wanna know about my experiences [Email me] **shivsharanrupesh1984@gmail.com**
