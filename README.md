@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupesh Shivsharan </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shivsharanrupesh&label=Profile%20views&color=0e75b6&style=plastic" alt="shivsharanrupesh" /> </p>
+
 <h3 align="center">Welcome to my GitHub page!</h3>
 <p align="center">With a dynamic 14-year journey in the field of technology, I am a seasoned professional specializing in  <strong>DataScience, Machine Learning, Generative AI</strong>, <strong>AI services </strong>and <strong>Chatbots</strong>.</p>
 
