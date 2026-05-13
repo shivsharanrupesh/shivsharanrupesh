@@ -107,11 +107,7 @@ Previously a **Sr. Principal Consultant at Oracle Canada** (8 years), where I le
 
 ## 🌐 Beyond the Code
 
-When I'm not architecting AI systems, you'll find me on the road on my **2026 Harley-Davidson Nightster Special** 🏍️, exploring Ontario's best routes. I share the journey on:
-
-- 📸 Instagram: [@milesovermachine](https://www.instagram.com/milesovermachine)
-- 🎥 YouTube: [@exploringendlessly](https://www.youtube.com/@exploringendlessly)
-
+When I'm not architecting AI systems, you'll find me on the road on my **2026 Harley-Davidson Nightster Special** 🏍️, exploring Ontario's best routes. 
 ---
 
 <p align="center">
