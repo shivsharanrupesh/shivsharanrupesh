@@ -98,7 +98,7 @@ Previously a **Sr. Principal Consultant at Oracle Canada** (8 years), where I le
 
 ## 🏆 Achievements
 
-- 🥇 **Dream Team Award** — Q1 FY2025, Genpact
+- 🥇 **Dream Team Award** — Q1 FY2025, Oracle
 - 🌟 **Circle of Excellence FY2020** — Oracle (Led Oracle license sale at ING Bank, Amsterdam)
 - 🏅 **Best Team Award** — April 2020, Oracle
 - 🎖️ **SunGard Kudos** — 2013 & 2015
