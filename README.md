@@ -89,7 +89,7 @@ Previously a **Sr. Principal Consultant at Oracle Canada** (8 years), where I le
 
 ## 🎓 Education & Certifications
 
-- 🔐 **Certificate in Penetration Testing** — York University, School of Continuing Studies *(Expected June 2026)*
+- 🔐 **Certificate in Penetration Testing** — York University, School of Continuing Studies *( June 2026)*
 - 🎓 **MSc Information Systems Management** — De Montfort University, UK *(2011)*
 - 🎓 **BE Computer Engineering** — University of Pune, India *(2010)*
 - ✅ **ITIL V3 Foundation** Certified
