@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="mailto:shivsharanrupesh1984@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rupesh-shivsharan-623153141/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rupesh-shivsharan-623153141"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Mississauga%2C%20ON%2C%20Canada-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
