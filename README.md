@@ -18,9 +18,12 @@ What sets my work apart is the combination of two disciplines most AI engineers 
 
 A few things I've shipped:
 
-Led an agentic AML investigation pipeline that cut manual review workload by 80%, auto-closed up to 70% of alerts, and reduced false positives by 40%
-Directed an agentic churn-prediction and retention pipeline (CrewAI + OpenAI) that identified 18% of customers as high-risk churners, lifted retention 15%, and saved an estimated $1.2M annually
+Led an agentic AML investigation pipeline that cut manual review workload by 80%, auto-closed up to 70% of alerts, and reduced false positives by 40%.
+
+Directed an agentic churn-prediction and retention pipeline (CrewAI + OpenAI) that identified 18% of customers as high-risk churners, lifted retention 15%, and saved an estimated $1.2M annually.
+
 Built and launched a RAG-based internal IT support chatbot (LangChain, ChromaDB, Cohere) on Slack that cut IT tickets by 65% and resolved 70%+ of queries instantly
+
 
 I work across CrewAI, LangChain, LangGraph, Azure OpenAI/AI Foundry, AWS Bedrock/SageMaker, and Oracle Cloud — and I'm always glad to connect with people working on agentic AI, RAG, AI governance, or AI/LLM security in regulated industries.
 
