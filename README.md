@@ -10,11 +10,19 @@
 
 ## 🧠 About Me
 
-I'm a **Senior AI Architect & Technical Lead** with 15+ years of experience building production-grade AI systems for regulated industries. Currently at **Genpact – Headstrong Canada**, I design and deliver enterprise Agentic AI, RAG pipelines, and LLM-powered applications for financial services clients.
+I build AI systems that regulated industries can actually trust — not just proof-of-concepts, but production-grade agentic AI and RAG platforms with the guardrails, audit trails, and security posture that financial services demands.
 
-My work sits at the intersection of **Generative AI**, **Cybersecurity**, and **MLOps** — from multi-agent financial crime investigation pipelines to AI governance frameworks aligned with OSFI, PIPEDA, and FINTRAC.
+Over 15+ years spanning AI/ML architecture, enterprise systems, and offensive security, I've moved from hands-on data engineering to leading the design of multi-agent AI systems for banks and financial institutions — most recently as Technical Lead at Genpact, architecting Agentic AI and RAG platforms for regulated clients, and before that as Sr. Principal Consultant at Oracle, where I spent 8 years building AI-driven solutions across churn prediction, financial crime investigation, and enterprise chatbots.
 
-Previously a **Sr. Principal Consultant at Oracle Canada** (8 years), where I led AI/ML initiatives spanning AML fraud detection, customer churn prediction, and document intelligence.
+What sets my work apart is the combination of two disciplines most AI engineers treat as separate: building the system, and knowing how it can be broken. I design with planner–executor and supervisor multi-agent patterns, own the full RAG pipeline (ingestion, OCR, embeddings, reranking, grounded generation with citations), and bake in AI safety and governance — PII masking, policy-based filtering, explainability, and audit-ready logging — from day one. I'm also completing a Penetration Testing certificate at York University, extending into OWASP LLM Top 10 and MITRE ATT&CK-informed red-teaming of the AI systems I build.
+
+A few things I've shipped:
+
+Led an agentic AML investigation pipeline that cut manual review workload by 80%, auto-closed up to 70% of alerts, and reduced false positives by 40%
+Directed an agentic churn-prediction and retention pipeline (CrewAI + OpenAI) that identified 18% of customers as high-risk churners, lifted retention 15%, and saved an estimated $1.2M annually
+Built and launched a RAG-based internal IT support chatbot (LangChain, ChromaDB, Cohere) on Slack that cut IT tickets by 65% and resolved 70%+ of queries instantly
+
+I work across CrewAI, LangChain, LangGraph, Azure OpenAI/AI Foundry, AWS Bedrock/SageMaker, and Oracle Cloud — and I'm always glad to connect with people working on agentic AI, RAG, AI governance, or AI/LLM security in regulated industries.
 
 ---
 
