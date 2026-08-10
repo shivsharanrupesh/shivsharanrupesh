@@ -16,6 +16,11 @@ Over 15+ years spanning AI/ML architecture, enterprise systems, and offensive se
 
 What sets my work apart is the combination of two disciplines most AI engineers treat as separate: building the system, and knowing how it can be broken. I design with planner–executor and supervisor multi-agent patterns, own the full RAG pipeline (ingestion, OCR, embeddings, reranking, grounded generation with citations), and bake in AI safety and governance — PII masking, policy-based filtering, explainability, and audit-ready logging — from day one. I'm also completing a Penetration Testing certificate at York University, extending into OWASP LLM Top 10 and MITRE ATT&CK-informed red-teaming of the AI systems I build.
 
+My cloud and AI architecture expertise is further supported by two advanced AWS Professional-level certifications:
+
+• AWS Certified Solutions Architect – Professional (SAP-C02)
+• AWS Certified Generative AI Developer – Professional (AIP-C01)
+
 A few things I've shipped:
 
 Led an agentic AML investigation pipeline that cut manual review workload by 80%, auto-closed up to 70% of alerts, and reduced false positives by 40%.
