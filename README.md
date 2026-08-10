@@ -19,7 +19,9 @@ What sets my work apart is the combination of two disciplines most AI engineers 
 My cloud and AI architecture expertise is further supported by two advanced AWS Professional-level certifications:
 
 • AWS Certified Solutions Architect – Professional (SAP-C02)
+
 • AWS Certified Generative AI Developer – Professional (AIP-C01)
+
 
 A few things I've shipped:
 
